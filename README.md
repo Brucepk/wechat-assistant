@@ -11,4 +11,6 @@
 
 源码：https://github.com/Brucepk/wechat-assistant/blob/master/assistant.py
 
+#### 原文地址：https://mp.weixin.qq.com/s/NEQPW2hwLPVhRDpmeUBV2w
+
 以后优化版会在GitHub上更新，大家有需求可以提出来，大家帮忙点个 star
